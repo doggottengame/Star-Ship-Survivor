@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Area
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Area
+  - Water
+  - UI
+  - Player
+  - Ground
+  - Block
+  - Enemy
+  - PlayerAttack
+  - EnemyAttack
+  - PlayerShield
+  - EnemyShield
+  - PlayerDrone
+  - EnemyDrone
+  - PlayerSearchArea
+  - EnemySearchArea
+  - NoneCollision
+  - JustText
+  - MiniMapBlock
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Block
+    uniqueID: 2752099665
+    locked: 0
+  - name: BlockPart
+    uniqueID: 2244879189
+    locked: 0
+  - name: Effect
+    uniqueID: 3217307079
+    locked: 0
+  - name: LastWindow
+    uniqueID: 1870871555
+    locked: 0

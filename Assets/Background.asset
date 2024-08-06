@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d1514134bc4fbd41bb739b1b9a49231, type: 3}
+  m_Name: Background
+  m_EditorClassIdentifier: 
+  m_DefaultSprite: {fileID: 0}
+  m_DefaultGameObject: {fileID: 0}
+  m_DefaultColliderType: 1
+  m_TilingRules:
+  - m_Id: 0
+    m_Sprites:
+    - {fileID: 21300000, guid: 03b14603fdd17154aabdabe22b6ef8df, type: 3}
+    - {fileID: 21300000, guid: 03b14603fdd17154aabdabe22b6ef8df, type: 3}
+    - {fileID: 21300000, guid: 84e669bb315420344bc2976128cb60ac, type: 3}
+    - {fileID: 21300000, guid: 03b14603fdd17154aabdabe22b6ef8df, type: 3}
+    - {fileID: 21300000, guid: 03b14603fdd17154aabdabe22b6ef8df, type: 3}
+    - {fileID: 21300000, guid: 4edcbd08c907ca2448e9fb408b74592e, type: 3}
+    - {fileID: 21300000, guid: 03b14603fdd17154aabdabe22b6ef8df, type: 3}
+    - {fileID: 21300000, guid: 03b14603fdd17154aabdabe22b6ef8df, type: 3}
+    - {fileID: 21300000, guid: deb59f80f0cb50344a146b27f8ad61d3, type: 3}
+    - {fileID: 21300000, guid: 03b14603fdd17154aabdabe22b6ef8df, type: 3}
+    - {fileID: 21300000, guid: 03b14603fdd17154aabdabe22b6ef8df, type: 3}
+    - {fileID: 21300000, guid: 669c5109dcf1fe14087c6963b5b2c052, type: 3}
+    - {fileID: 21300000, guid: 03b14603fdd17154aabdabe22b6ef8df, type: 3}
+    - {fileID: 21300000, guid: 03b14603fdd17154aabdabe22b6ef8df, type: 3}
+    - {fileID: 21300000, guid: b12dde43cb0430c418773d535d4b95c9, type: 3}
+    - {fileID: 21300000, guid: 03b14603fdd17154aabdabe22b6ef8df, type: 3}
+    - {fileID: 21300000, guid: 03b14603fdd17154aabdabe22b6ef8df, type: 3}
+    - {fileID: 21300000, guid: 3546bd98de5d68244bab907ee8ab6030, type: 3}
+    - {fileID: 21300000, guid: 03b14603fdd17154aabdabe22b6ef8df, type: 3}
+    - {fileID: 21300000, guid: 03b14603fdd17154aabdabe22b6ef8df, type: 3}
+    m_GameObject: {fileID: 0}
+    m_MinAnimationSpeed: 1
+    m_MaxAnimationSpeed: 1
+    m_PerlinScale: 0.199
+    m_Output: 1
+    m_ColliderType: 1
+    m_RandomTransform: 0
+    m_Neighbors: 
+    m_NeighborPositions:
+    - {x: -1, y: 1, z: 0}
+    - {x: 0, y: 1, z: 0}
+    - {x: 1, y: 1, z: 0}
+    - {x: -1, y: 0, z: 0}
+    - {x: 1, y: 0, z: 0}
+    - {x: -1, y: -1, z: 0}
+    - {x: 0, y: -1, z: 0}
+    - {x: 1, y: -1, z: 0}
+    m_RuleTransform: 0
